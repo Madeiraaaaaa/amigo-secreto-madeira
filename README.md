@@ -4,6 +4,14 @@ Este é um projeto simples baseado em um desafio da Alura, um site interativo pa
 
 ---
 
+## Projeto Publicado 
+
+Você pode acessar o projeto publicado pelo GitHub Pages no seguinte link:
+
+[Amigo Secreto Madeira - Projeto Publicado](https://madeiraaaaaa.github.io/amigo-secreto-madeira/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Adicionar nomes a uma lista visível.
@@ -34,8 +42,12 @@ Abra o arquivo index.html:
 
 Você pode abrir diretamente no navegador para executar o projeto.
 
+---
+
 ## 🔧 Dependências
 Este projeto não possui dependências externas além de fontes do Google Fonts, que já estão vinculadas diretamente no arquivo HTML.
+
+---
 
 ## ▶️ Como Executar
 Certifique-se de que os arquivos HTML, CSS e JavaScript estão na mesma pasta.
@@ -45,6 +57,8 @@ Abra o arquivo index.html no seu navegador.
 Insira os nomes no campo de entrada, clique em "Adicionar" para adicioná-los à lista.
 
 Após criar a lista de amigos, clique no botão "Sortear Amigo" para realizar o sorteio.
+
+---
 
 ## ⚠️ Possíveis Problemas e Soluções
 1. Nomes não aparecem na lista
@@ -56,11 +70,17 @@ Verifique se a lista possui pelo menos um nome antes de clicar em "Sortear Amigo
 3. Interface quebrada
 Certifique-se de que o arquivo style.css está na mesma pasta do index.html.
 
+---
+
 ## 🛡️ Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
+---
+
 ## ✨ Contribuições
 Contribuições são sempre bem-vindas! Sinta-se à vontade para enviar um pull request com melhorias, novas funcionalidades ou correções de bugs.
+
+---
 
 ## 📞 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
